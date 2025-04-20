@@ -1,0 +1,74 @@
+.root {
+    -fx-background-color: #f0f0f0; /* Fondo gris claro */
+    -fx-padding: 10px;
+    -fx-font-family: "Arial";
+    -fx-font-size: 14px;
+}
+
+.text-field {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+.button {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+.button:hover {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+.button:pressed {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+/* Estilos específicos para operadores */
+.button.operador {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+.button.operador:hover {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+.button.operador:pressed {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+/* Estilos específicos para el botón de igual */
+.button.igual {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+.button.igual:hover {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+.button.igual:pressed {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+/* Estilos específicos para el botón de limpiar */
+.button.limpiar {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+.button.limpiar:hover {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+.button.limpiar:pressed {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
